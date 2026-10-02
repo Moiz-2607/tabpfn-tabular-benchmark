@@ -1,0 +1,349 @@
+model,feature,category,correct_fraction,incorrect_fraction
+Logistic Regression,workclass,Self-emp-not-inc,0.08125,0.1069182389937107
+Logistic Regression,workclass,Self-emp-inc,0.0275,0.05660377358490566
+Logistic Regression,workclass,Private,0.75375,0.6981132075471698
+Logistic Regression,workclass,Local-gov,0.065,0.07547169811320754
+Logistic Regression,workclass,Federal-gov,0.03375,0.031446540880503145
+Logistic Regression,workclass,State-gov,0.03875,0.031446540880503145
+Logistic Regression,education,5th-6th,0.009557945041816009,0.0
+Logistic Regression,education,Assoc-voc,0.037037037037037035,0.0736196319018405
+Logistic Regression,education,Masters,0.04181600955794504,0.09202453987730061
+Logistic Regression,education,Some-college,0.20908004778972522,0.17177914110429449
+Logistic Regression,education,Bachelors,0.14336917562724014,0.2147239263803681
+Logistic Regression,education,7th-8th,0.022700119474313024,0.012269938650306749
+Logistic Regression,education,Assoc-acdm,0.03225806451612903,0.024539877300613498
+Logistic Regression,education,HS-grad,0.35722819593787336,0.3558282208588957
+Logistic Regression,education,Preschool,0.0023894862604540022,0.0
+Logistic Regression,education,11th,0.05137395459976105,0.018404907975460124
+Logistic Regression,education,9th,0.010752688172043012,0.006134969325153374
+Logistic Regression,education,10th,0.03225806451612903,0.0
+Logistic Regression,education,1st-4th,0.0047789725209080045,0.0
+Logistic Regression,education,12th,0.017921146953405017,0.0
+Logistic Regression,education,Prof-school,0.019115890083632018,0.012269938650306749
+Logistic Regression,education,Doctorate,0.008363201911589008,0.018404907975460124
+Logistic Regression,marital-status,Married-spouse-absent,0.008363201911589008,0.0
+Logistic Regression,marital-status,Separated,0.04420549581839905,0.0
+Logistic Regression,marital-status,Divorced,0.16487455197132617,0.08588957055214724
+Logistic Regression,marital-status,Widowed,0.026284348864994027,0.006134969325153374
+Logistic Regression,marital-status,Married-civ-spouse,0.3715651135005974,0.8404907975460123
+Logistic Regression,marital-status,Never-married,0.3835125448028674,0.06748466257668712
+Logistic Regression,marital-status,Married-AF-spouse,0.0011947431302270011,0.0
+Logistic Regression,occupation,Protective-serv,0.01375,0.012578616352201259
+Logistic Regression,occupation,Farming-fishing,0.03,0.018867924528301886
+Logistic Regression,occupation,Adm-clerical,0.1425,0.0880503144654088
+Logistic Regression,occupation,Exec-managerial,0.11875,0.15723270440251572
+Logistic Regression,occupation,Priv-house-serv,0.00625,0.0
+Logistic Regression,occupation,Other-service,0.13,0.031446540880503145
+Logistic Regression,occupation,Tech-support,0.02375,0.06289308176100629
+Logistic Regression,occupation,Transport-moving,0.0525,0.0880503144654088
+Logistic Regression,occupation,Craft-repair,0.1375,0.12578616352201258
+Logistic Regression,occupation,Sales,0.11625,0.11320754716981132
+Logistic Regression,occupation,Machine-op-inspct,0.055,0.07547169811320754
+Logistic Regression,occupation,Prof-specialty,0.1175,0.1761006289308176
+Logistic Regression,occupation,Handlers-cleaners,0.055,0.050314465408805034
+Logistic Regression,occupation,Armed-Forces,0.00125,0.0
+Logistic Regression,relationship,Wife,0.037037037037037035,0.12269938650306748
+Logistic Regression,relationship,Not-in-family,0.25806451612903225,0.10429447852760736
+Logistic Regression,relationship,Unmarried,0.15173237753882915,0.05521472392638037
+Logistic Regression,relationship,Own-child,0.1971326164874552,0.0
+Logistic Regression,relationship,Husband,0.3225806451612903,0.7177914110429447
+Logistic Regression,relationship,Other-relative,0.03345280764635603,0.0
+Logistic Regression,race,Asian-Pac-Islander,0.023894862604540025,0.012269938650306749
+Logistic Regression,race,Black,0.0967741935483871,0.05521472392638037
+Logistic Regression,race,White,0.8578255675029869,0.9263803680981595
+Logistic Regression,race,Amer-Indian-Eskimo,0.009557945041816009,0.0
+Logistic Regression,race,Other,0.011947431302270013,0.006134969325153374
+Logistic Regression,sex,Female,0.3823178016726404,0.17791411042944785
+Logistic Regression,sex,Male,0.6176821983273596,0.8220858895705522
+Logistic Regression,native-country,Cambodia,0.0,0.00625
+Logistic Regression,native-country,Greece,0.0012106537530266344,0.0
+Logistic Regression,native-country,Puerto-Rico,0.002421307506053269,0.0
+Logistic Regression,native-country,United-States,0.9128329297820823,0.9375
+Logistic Regression,native-country,Dominican-Republic,0.0,0.00625
+Logistic Regression,native-country,Nicaragua,0.002421307506053269,0.0
+Logistic Regression,native-country,Japan,0.0036319612590799033,0.0
+Logistic Regression,native-country,Trinadad&Tobago,0.0012106537530266344,0.0
+Logistic Regression,native-country,England,0.004842615012106538,0.0125
+Logistic Regression,native-country,Laos,0.0012106537530266344,0.0
+Logistic Regression,native-country,Mexico,0.020581113801452784,0.0125
+Logistic Regression,native-country,Ireland,0.0012106537530266344,0.00625
+Logistic Regression,native-country,Taiwan,0.0012106537530266344,0.0
+Logistic Regression,native-country,Portugal,0.002421307506053269,0.0
+Logistic Regression,native-country,India,0.0012106537530266344,0.00625
+Logistic Regression,native-country,South,0.0012106537530266344,0.0
+Logistic Regression,native-country,Jamaica,0.0036319612590799033,0.0
+Logistic Regression,native-country,Canada,0.002421307506053269,0.00625
+Logistic Regression,native-country,Haiti,0.002421307506053269,0.0
+Logistic Regression,native-country,Philippines,0.004842615012106538,0.0
+Logistic Regression,native-country,Ecuador,0.0036319612590799033,0.0
+Logistic Regression,native-country,Germany,0.0012106537530266344,0.0
+Logistic Regression,native-country,Italy,0.0012106537530266344,0.0
+Logistic Regression,native-country,Columbia,0.0012106537530266344,0.0
+Logistic Regression,native-country,Guatemala,0.006053268765133172,0.0
+Logistic Regression,native-country,Vietnam,0.0036319612590799033,0.0
+Logistic Regression,native-country,China,0.0012106537530266344,0.0
+Logistic Regression,native-country,Cuba,0.002421307506053269,0.0
+Logistic Regression,native-country,Yugoslavia,0.0012106537530266344,0.00625
+Logistic Regression,native-country,Poland,0.002421307506053269,0.0
+Logistic Regression,native-country,El-Salvador,0.004842615012106538,0.0
+Random Forest,workclass,Self-emp-not-inc,0.07884856070087609,0.11875
+Random Forest,workclass,Self-emp-inc,0.028785982478097622,0.05
+Random Forest,workclass,Private,0.7559449311639549,0.6875
+Random Forest,workclass,Local-gov,0.06633291614518148,0.06875
+Random Forest,workclass,Federal-gov,0.03128911138923655,0.04375
+Random Forest,workclass,State-gov,0.03879849812265332,0.03125
+Random Forest,education,5th-6th,0.009592326139088728,0.0
+Random Forest,education,Assoc-voc,0.03597122302158273,0.0783132530120482
+Random Forest,education,Masters,0.0407673860911271,0.0963855421686747
+Random Forest,education,Some-college,0.21342925659472423,0.15060240963855423
+Random Forest,education,Bachelors,0.13908872901678657,0.23493975903614459
+Random Forest,education,7th-8th,0.023980815347721823,0.006024096385542169
+Random Forest,education,Assoc-acdm,0.02997601918465228,0.03614457831325301
+Random Forest,education,HS-grad,0.35731414868105515,0.35542168674698793
+Random Forest,education,Preschool,0.002398081534772182,0.0
+Random Forest,education,11th,0.05155875299760192,0.018072289156626505
+Random Forest,education,9th,0.01079136690647482,0.006024096385542169
+Random Forest,education,10th,0.03237410071942446,0.0
+Random Forest,education,1st-4th,0.004796163069544364,0.0
+Random Forest,education,12th,0.017985611510791366,0.0
+Random Forest,education,Prof-school,0.019184652278177457,0.012048192771084338
+Random Forest,education,Doctorate,0.01079136690647482,0.006024096385542169
+Random Forest,marital-status,Married-spouse-absent,0.008393285371702638,0.0
+Random Forest,marital-status,Separated,0.04436450839328537,0.0
+Random Forest,marital-status,Divorced,0.1642685851318945,0.09036144578313253
+Random Forest,marital-status,Widowed,0.025179856115107913,0.012048192771084338
+Random Forest,marital-status,Married-civ-spouse,0.36810551558752996,0.8493975903614458
+Random Forest,marital-status,Never-married,0.38848920863309355,0.04819277108433735
+Random Forest,marital-status,Married-AF-spouse,0.001199040767386091,0.0
+Random Forest,occupation,Protective-serv,0.015018773466833541,0.00625
+Random Forest,occupation,Farming-fishing,0.028785982478097622,0.025
+Random Forest,occupation,Adm-clerical,0.14518147684605756,0.075
+Random Forest,occupation,Exec-managerial,0.11514392991239049,0.175
+Random Forest,occupation,Priv-house-serv,0.006257822277847309,0.0
+Random Forest,occupation,Other-service,0.13016270337922403,0.03125
+Random Forest,occupation,Tech-support,0.025031289111389236,0.05625
+Random Forest,occupation,Transport-moving,0.05381727158948686,0.08125
+Random Forest,occupation,Craft-repair,0.1276595744680851,0.175
+Random Forest,occupation,Sales,0.11639549436795996,0.1125
+Random Forest,occupation,Machine-op-inspct,0.056320400500625784,0.06875
+Random Forest,occupation,Prof-specialty,0.12390488110137672,0.14375
+Random Forest,occupation,Handlers-cleaners,0.05506883604505632,0.05
+Random Forest,occupation,Armed-Forces,0.0012515644555694619,0.0
+Random Forest,relationship,Wife,0.039568345323741004,0.10843373493975904
+Random Forest,relationship,Not-in-family,0.26139088729016785,0.09036144578313253
+Random Forest,relationship,Unmarried,0.1498800959232614,0.06626506024096386
+Random Forest,relationship,Own-child,0.19784172661870503,0.0
+Random Forest,relationship,Husband,0.31774580335731417,0.7349397590361446
+Random Forest,relationship,Other-relative,0.03357314148681055,0.0
+Random Forest,race,White,0.854916067146283,0.9397590361445783
+Random Forest,race,Asian-Pac-Islander,0.022781774580335732,0.018072289156626505
+Random Forest,race,Amer-Indian-Eskimo,0.009592326139088728,0.0
+Random Forest,race,Black,0.09952038369304557,0.04216867469879518
+Random Forest,race,Other,0.013189448441247002,0.0
+Random Forest,sex,Female,0.38489208633093525,0.1686746987951807
+Random Forest,sex,Male,0.6151079136690647,0.8313253012048193
+Random Forest,native-country,Cambodia,0.0,0.006134969325153374
+Random Forest,native-country,Greece,0.001215066828675577,0.0
+Random Forest,native-country,Puerto-Rico,0.002430133657351154,0.0
+Random Forest,native-country,United-States,0.9161603888213852,0.9202453987730062
+Random Forest,native-country,Dominican-Republic,0.0,0.006134969325153374
+Random Forest,native-country,Nicaragua,0.002430133657351154,0.0
+Random Forest,native-country,Japan,0.0036452004860267314,0.0
+Random Forest,native-country,Trinadad&Tobago,0.001215066828675577,0.0
+Random Forest,native-country,England,0.0036452004860267314,0.018404907975460124
+Random Forest,native-country,Laos,0.001215066828675577,0.0
+Random Forest,native-country,Mexico,0.02187120291616039,0.006134969325153374
+Random Forest,native-country,Ireland,0.001215066828675577,0.006134969325153374
+Random Forest,native-country,Taiwan,0.001215066828675577,0.0
+Random Forest,native-country,Portugal,0.002430133657351154,0.0
+Random Forest,native-country,India,0.001215066828675577,0.006134969325153374
+Random Forest,native-country,South,0.001215066828675577,0.0
+Random Forest,native-country,Jamaica,0.0036452004860267314,0.0
+Random Forest,native-country,Canada,0.001215066828675577,0.012269938650306749
+Random Forest,native-country,Haiti,0.002430133657351154,0.0
+Random Forest,native-country,Philippines,0.004860267314702308,0.0
+Random Forest,native-country,Ecuador,0.0036452004860267314,0.0
+Random Forest,native-country,Germany,0.001215066828675577,0.0
+Random Forest,native-country,Columbia,0.001215066828675577,0.0
+Random Forest,native-country,Italy,0.0,0.006134969325153374
+Random Forest,native-country,Guatemala,0.006075334143377886,0.0
+Random Forest,native-country,Vietnam,0.0036452004860267314,0.0
+Random Forest,native-country,China,0.001215066828675577,0.0
+Random Forest,native-country,Cuba,0.002430133657351154,0.0
+Random Forest,native-country,Yugoslavia,0.001215066828675577,0.006134969325153374
+Random Forest,native-country,Poland,0.001215066828675577,0.006134969325153374
+Random Forest,native-country,El-Salvador,0.004860267314702308,0.0
+XGBoost,workclass,Self-emp-not-inc,0.07757575757575758,0.13432835820895522
+XGBoost,workclass,Self-emp-inc,0.03151515151515152,0.03731343283582089
+XGBoost,workclass,Private,0.7539393939393939,0.6865671641791045
+XGBoost,workclass,Local-gov,0.06424242424242424,0.08208955223880597
+XGBoost,workclass,Federal-gov,0.03515151515151515,0.022388059701492536
+XGBoost,workclass,State-gov,0.037575757575757575,0.03731343283582089
+XGBoost,education,5th-6th,0.009313154831199068,0.0
+XGBoost,education,Assoc-voc,0.034924330616996506,0.09219858156028368
+XGBoost,education,Masters,0.04190919674039581,0.09929078014184398
+XGBoost,education,Some-college,0.21187427240977882,0.14893617021276595
+XGBoost,education,Bachelors,0.14551804423748546,0.2127659574468085
+XGBoost,education,7th-8th,0.023282887077997673,0.0070921985815602835
+XGBoost,education,Assoc-acdm,0.03143189755529686,0.028368794326241134
+XGBoost,education,HS-grad,0.3573923166472643,0.3546099290780142
+XGBoost,education,Preschool,0.002328288707799767,0.0
+XGBoost,education,11th,0.050058207217694994,0.02127659574468085
+XGBoost,education,9th,0.010477299185098952,0.0070921985815602835
+XGBoost,education,10th,0.03143189755529686,0.0
+XGBoost,education,1st-4th,0.004656577415599534,0.0
+XGBoost,education,12th,0.01629802095459837,0.0070921985815602835
+XGBoost,education,Prof-school,0.018626309662398137,0.014184397163120567
+XGBoost,education,Doctorate,0.010477299185098952,0.0070921985815602835
+XGBoost,marital-status,Married-spouse-absent,0.008149010477299184,0.0
+XGBoost,marital-status,Separated,0.04307334109429569,0.0
+XGBoost,marital-status,Divorced,0.16181606519208383,0.09219858156028368
+XGBoost,marital-status,Widowed,0.025611175785797437,0.0070921985815602835
+XGBoost,marital-status,Married-civ-spouse,0.3830034924330617,0.8439716312056738
+XGBoost,marital-status,Never-married,0.37718277066356226,0.05673758865248227
+XGBoost,marital-status,Married-AF-spouse,0.0011641443538998836,0.0
+XGBoost,occupation,Protective-serv,0.013333333333333334,0.014925373134328358
+XGBoost,occupation,Farming-fishing,0.02909090909090909,0.022388059701492536
+XGBoost,occupation,Adm-clerical,0.14424242424242426,0.06716417910447761
+XGBoost,occupation,Exec-managerial,0.12121212121212122,0.14925373134328357
+XGBoost,occupation,Priv-house-serv,0.006060606060606061,0.0
+XGBoost,occupation,Other-service,0.12727272727272726,0.029850746268656716
+XGBoost,occupation,Tech-support,0.024242424242424242,0.06716417910447761
+XGBoost,occupation,Transport-moving,0.05454545454545454,0.08208955223880597
+XGBoost,occupation,Craft-repair,0.12848484848484848,0.1791044776119403
+XGBoost,occupation,Sales,0.11393939393939394,0.12686567164179105
+XGBoost,occupation,Machine-op-inspct,0.05818181818181818,0.05970149253731343
+XGBoost,occupation,Prof-specialty,0.12242424242424242,0.15671641791044777
+XGBoost,occupation,Handlers-cleaners,0.055757575757575756,0.04477611940298507
+XGBoost,occupation,Armed-Forces,0.0012121212121212121,0.0
+XGBoost,relationship,Wife,0.03841676367869616,0.1276595744680851
+XGBoost,relationship,Not-in-family,0.2561117578579744,0.09219858156028368
+XGBoost,relationship,Unmarried,0.1478463329452852,0.06382978723404255
+XGBoost,relationship,Own-child,0.1920838183934808,0.0
+XGBoost,relationship,Husband,0.3329452852153667,0.7163120567375887
+XGBoost,relationship,Other-relative,0.03259604190919674,0.0
+XGBoost,race,White,0.8591385331781141,0.9290780141843972
+XGBoost,race,Asian-Pac-Islander,0.020954598370197905,0.028368794326241134
+XGBoost,race,Amer-Indian-Eskimo,0.009313154831199068,0.0
+XGBoost,race,Black,0.09778812572759023,0.0425531914893617
+XGBoost,race,Other,0.012805587892898719,0.0
+XGBoost,sex,Female,0.37485448195576254,0.19148936170212766
+XGBoost,sex,Male,0.6251455180442375,0.8085106382978723
+XGBoost,native-country,Cambodia,0.0,0.007194244604316547
+XGBoost,native-country,Greece,0.0011806375442739079,0.0
+XGBoost,native-country,Puerto-Rico,0.0023612750885478157,0.0
+XGBoost,native-country,United-States,0.9161747343565525,0.920863309352518
+XGBoost,native-country,Dominican-Republic,0.0,0.007194244604316547
+XGBoost,native-country,Nicaragua,0.0023612750885478157,0.0
+XGBoost,native-country,Japan,0.0035419126328217238,0.0
+XGBoost,native-country,Trinadad&Tobago,0.0011806375442739079,0.0
+XGBoost,native-country,England,0.004722550177095631,0.014388489208633094
+XGBoost,native-country,Laos,0.0011806375442739079,0.0
+XGBoost,native-country,Mexico,0.021251475796930343,0.007194244604316547
+XGBoost,native-country,Ireland,0.0011806375442739079,0.007194244604316547
+XGBoost,native-country,Taiwan,0.0011806375442739079,0.0
+XGBoost,native-country,Portugal,0.0023612750885478157,0.0
+XGBoost,native-country,India,0.0011806375442739079,0.007194244604316547
+XGBoost,native-country,South,0.0011806375442739079,0.0
+XGBoost,native-country,Jamaica,0.0035419126328217238,0.0
+XGBoost,native-country,Canada,0.0023612750885478157,0.007194244604316547
+XGBoost,native-country,Haiti,0.0023612750885478157,0.0
+XGBoost,native-country,Philippines,0.004722550177095631,0.0
+XGBoost,native-country,Ecuador,0.0035419126328217238,0.0
+XGBoost,native-country,Germany,0.0011806375442739079,0.0
+XGBoost,native-country,Columbia,0.0011806375442739079,0.0
+XGBoost,native-country,Italy,0.0,0.007194244604316547
+XGBoost,native-country,Guatemala,0.0059031877213695395,0.0
+XGBoost,native-country,Vietnam,0.0035419126328217238,0.0
+XGBoost,native-country,China,0.0011806375442739079,0.0
+XGBoost,native-country,Cuba,0.0023612750885478157,0.0
+XGBoost,native-country,Yugoslavia,0.0011806375442739079,0.007194244604316547
+XGBoost,native-country,Poland,0.0011806375442739079,0.007194244604316547
+XGBoost,native-country,El-Salvador,0.004722550177095631,0.0
+TabPFN,workclass,Self-emp-not-inc,0.07720144752714113,0.13846153846153847
+TabPFN,workclass,Self-emp-inc,0.030156815440289506,0.046153846153846156
+TabPFN,workclass,Private,0.7551266586248492,0.676923076923077
+TabPFN,workclass,Local-gov,0.06513872135102533,0.07692307692307693
+TabPFN,workclass,Federal-gov,0.033775633293124246,0.03076923076923077
+TabPFN,workclass,State-gov,0.038600723763570564,0.03076923076923077
+TabPFN,education,5th-6th,0.00922722029988466,0.0
+TabPFN,education,Assoc-voc,0.040369088811995385,0.06015037593984962
+TabPFN,education,Masters,0.04267589388696655,0.09774436090225563
+TabPFN,education,Some-college,0.21107266435986158,0.15037593984962405
+TabPFN,education,Bachelors,0.14417531718569782,0.22556390977443608
+TabPFN,education,7th-8th,0.02306805074971165,0.007518796992481203
+TabPFN,education,Assoc-acdm,0.029988465974625143,0.03759398496240601
+TabPFN,education,HS-grad,0.3552479815455594,0.3684210526315789
+TabPFN,education,Preschool,0.002306805074971165,0.0
+TabPFN,education,11th,0.049596309111880045,0.022556390977443608
+TabPFN,education,9th,0.010380622837370242,0.007518796992481203
+TabPFN,education,10th,0.031141868512110725,0.0
+TabPFN,education,1st-4th,0.00461361014994233,0.0
+TabPFN,education,12th,0.01730103806228374,0.0
+TabPFN,education,Prof-school,0.0196078431372549,0.007518796992481203
+TabPFN,education,Doctorate,0.00922722029988466,0.015037593984962405
+TabPFN,marital-status,Married-spouse-absent,0.008073817762399077,0.0
+TabPFN,marital-status,Separated,0.04267589388696655,0.0
+TabPFN,marital-status,Divorced,0.15916955017301038,0.10526315789473684
+TabPFN,marital-status,Widowed,0.0265282583621684,0.0
+TabPFN,marital-status,Married-civ-spouse,0.3886966551326413,0.8345864661654135
+TabPFN,marital-status,Never-married,0.3737024221453287,0.06015037593984962
+TabPFN,marital-status,Married-AF-spouse,0.0011534025374855825,0.0
+TabPFN,occupation,Protective-serv,0.013268998793727383,0.015384615384615385
+TabPFN,occupation,Farming-fishing,0.028950542822677925,0.023076923076923078
+TabPFN,occupation,Adm-clerical,0.1411338962605549,0.08461538461538462
+TabPFN,occupation,Exec-managerial,0.12303980699638119,0.13846153846153847
+TabPFN,occupation,Priv-house-serv,0.006031363088057901,0.0
+TabPFN,occupation,Other-service,0.1278648974668275,0.023076923076923078
+TabPFN,occupation,Tech-support,0.027744270205066344,0.046153846153846156
+TabPFN,occupation,Transport-moving,0.05307599517490953,0.09230769230769231
+TabPFN,occupation,Craft-repair,0.13148371531966224,0.16153846153846155
+TabPFN,occupation,Sales,0.11338962605548854,0.13076923076923078
+TabPFN,occupation,Machine-op-inspct,0.05669481302774427,0.06923076923076923
+TabPFN,occupation,Prof-specialty,0.12062726176115803,0.16923076923076924
+TabPFN,occupation,Handlers-cleaners,0.05548854041013269,0.046153846153846156
+TabPFN,occupation,Armed-Forces,0.0012062726176115801,0.0
+TabPFN,relationship,Wife,0.03690888119953864,0.14285714285714285
+TabPFN,relationship,Not-in-family,0.25144175317185696,0.11278195488721804
+TabPFN,relationship,Unmarried,0.14763552479815456,0.06015037593984962
+TabPFN,relationship,Own-child,0.1903114186851211,0.0
+TabPFN,relationship,Husband,0.3414071510957324,0.6842105263157895
+TabPFN,relationship,Other-relative,0.03229527104959631,0.0
+TabPFN,race,Asian-Pac-Islander,0.020761245674740483,0.03007518796992481
+TabPFN,race,Black,0.09457900807381776,0.06015037593984962
+TabPFN,race,White,0.8638985005767013,0.9022556390977443
+TabPFN,race,Amer-Indian-Eskimo,0.00922722029988466,0.0
+TabPFN,race,Other,0.011534025374855825,0.007518796992481203
+TabPFN,sex,Female,0.37139561707035756,0.20300751879699247
+TabPFN,sex,Male,0.6286043829296425,0.7969924812030075
+TabPFN,native-country,Cambodia,0.0,0.007692307692307693
+TabPFN,native-country,Greece,0.0011682242990654205,0.0
+TabPFN,native-country,Puerto-Rico,0.002336448598130841,0.0
+TabPFN,native-country,United-States,0.9158878504672897,0.9230769230769231
+TabPFN,native-country,Dominican-Republic,0.0,0.007692307692307693
+TabPFN,native-country,Nicaragua,0.002336448598130841,0.0
+TabPFN,native-country,Japan,0.0035046728971962616,0.0
+TabPFN,native-country,Trinadad&Tobago,0.0011682242990654205,0.0
+TabPFN,native-country,England,0.004672897196261682,0.015384615384615385
+TabPFN,native-country,Laos,0.0011682242990654205,0.0
+TabPFN,native-country,Mexico,0.02102803738317757,0.007692307692307693
+TabPFN,native-country,Ireland,0.002336448598130841,0.0
+TabPFN,native-country,Taiwan,0.0011682242990654205,0.0
+TabPFN,native-country,Portugal,0.002336448598130841,0.0
+TabPFN,native-country,India,0.0011682242990654205,0.007692307692307693
+TabPFN,native-country,South,0.0011682242990654205,0.0
+TabPFN,native-country,Jamaica,0.0035046728971962616,0.0
+TabPFN,native-country,Canada,0.002336448598130841,0.007692307692307693
+TabPFN,native-country,Haiti,0.002336448598130841,0.0
+TabPFN,native-country,Philippines,0.004672897196261682,0.0
+TabPFN,native-country,Ecuador,0.0035046728971962616,0.0
+TabPFN,native-country,Germany,0.0011682242990654205,0.0
+TabPFN,native-country,Columbia,0.0011682242990654205,0.0
+TabPFN,native-country,Italy,0.0,0.007692307692307693
+TabPFN,native-country,Guatemala,0.005841121495327103,0.0
+TabPFN,native-country,Vietnam,0.0035046728971962616,0.0
+TabPFN,native-country,China,0.0011682242990654205,0.0
+TabPFN,native-country,Cuba,0.002336448598130841,0.0
+TabPFN,native-country,Yugoslavia,0.0011682242990654205,0.007692307692307693
+TabPFN,native-country,Poland,0.0011682242990654205,0.007692307692307693
+TabPFN,native-country,El-Salvador,0.004672897196261682,0.0

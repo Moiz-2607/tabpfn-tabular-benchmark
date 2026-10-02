@@ -1,0 +1,13 @@
+dataset,model,total_samples,errors,error_rate,true_negatives,false_positives,false_negatives,true_positives
+Breast Cancer,Logistic Regression,114,2,0.017543859649122806,41.0,1.0,1.0,71.0
+Breast Cancer,Random Forest,114,6,0.05263157894736842,39.0,3.0,3.0,69.0
+Breast Cancer,XGBoost,114,5,0.043859649122807015,38.0,4.0,1.0,71.0
+Breast Cancer,TabPFN,114,2,0.017543859649122806,41.0,1.0,1.0,71.0
+Wine,Logistic Regression,36,1,0.027777777777777776,,,,
+Wine,Random Forest,36,0,0.0,,,,
+Wine,XGBoost,36,0,0.0,,,,
+Wine,TabPFN,36,0,0.0,,,,
+Adult Income,Logistic Regression,1000,163,0.163,708.0,53.0,110.0,129.0
+Adult Income,Random Forest,1000,166,0.166,704.0,57.0,109.0,130.0
+Adult Income,XGBoost,1000,141,0.141,715.0,46.0,95.0,144.0
+Adult Income,TabPFN,1000,133,0.133,725.0,36.0,97.0,142.0
